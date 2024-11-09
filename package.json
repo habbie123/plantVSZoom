@@ -1,0 +1,10 @@
+{
+  "name": "plantVSZoom",
+  "uuid": "ef2216c6-4cb0-4e6f-b637-9ba58fd0a739",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "plantVSZoom": "file:"
+  }
+}
